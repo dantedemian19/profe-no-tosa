@@ -234,7 +234,7 @@ int contadorpedorro(node& start) {// devuelve el numero de nodos que hay
 
 // funciones globales
 
-void menu(bool run) { // menu para el ejercicio de los empleados
+void menu(bool& run) { // menu para el ejercicio de los empleados
     //advice();
     string name = " Programa final de hashing       (profe no tosa) \n";
     int w = 1, n = 0;
