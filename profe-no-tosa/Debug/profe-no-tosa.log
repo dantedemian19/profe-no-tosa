@@ -1,0 +1,22 @@
+﻿  profe-no-tosa.cpp
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(23,16): warning C4099: 'list': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(17): message : see declaration of 'list'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(24,16): warning C4099: 'list': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(17): message : see declaration of 'list'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(32,16): warning C4099: 'list': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(17): message : see declaration of 'list'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(33,16): warning C4099: 'list': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(17): message : see declaration of 'list'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(34,17): warning C4099: 'list2': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(28): message : see declaration of 'list2'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(35,17): warning C4099: 'list2': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(28): message : see declaration of 'list2'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(110,29): warning C4099: 'list': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(17): message : see declaration of 'list'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(130,31): warning C4099: 'list2': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(28): message : see declaration of 'list2'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(148,31): warning C4099: 'list': type name first seen using 'class' now seen using 'struct'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(17): message : see declaration of 'list'
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(229,13): warning C4551: function call missing argument list
+C:\Users\dante\source\repos\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(107): warning C4715: 'tabhash': not all control paths return a value
+  profe-no-tosa.vcxproj -> C:\Users\dante\source\repos\profe-no-tosa\Debug\profe-no-tosa.exe

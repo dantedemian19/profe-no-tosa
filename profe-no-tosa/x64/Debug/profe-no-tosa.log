@@ -1,0 +1,4 @@
+﻿  profe-no-tosa.cpp
+C:\Users\dante\source\repos\dantedemian19\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(213,13): warning C4551: function call missing argument list
+C:\Users\dante\source\repos\dantedemian19\profe-no-tosa\profe-no-tosa\profe-no-tosa.cpp(106): warning C4715: 'tabhash': not all control paths return a value
+  profe-no-tosa.vcxproj -> C:\Users\dante\source\repos\dantedemian19\profe-no-tosa\x64\Debug\profe-no-tosa.exe
